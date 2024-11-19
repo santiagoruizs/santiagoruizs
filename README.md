@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Ruiz</h1>
 <h3 align="center">A Fullstack Developer with experience as a Software and Automation Engineer</h3>
 
-- 🔭 I’m currently working on [Banking Aplication](https://github.com/santiagoruizs/banking-clientv2)
+- 🔭 I’m currently working on a Expenese Tracker APP [FrontEnd](https://github.com/santiagoruizs/expense-tr-app) [BackEnd](https://github.com/santiagoruizs/expense-tr-API)
 
 - 📫 How to reach me **santiago.94rs@gmail.com**
 
